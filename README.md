@@ -9,4 +9,4 @@ SmartNotes é um aplicativo de anotações desenvolvido com SwiftUI e SwiftData,
 - **Buscar e Filtrar**: Pesquisar e filtrar suas notas por título ou conteúdo.
 - **Armazenamento Local**: As notas são armazenadas localmente utilizando o SwiftData.
 
-![SmartNotes GIF](https://i.imgur.com/a/rAqMayE.gif)
+![SmartNotes GIF](https://i.imgur.com/CN6fY7x.gif)
