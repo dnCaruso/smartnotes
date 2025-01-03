@@ -8,3 +8,5 @@ SmartNotes é um aplicativo de anotações desenvolvido com SwiftUI e SwiftData,
 - **Integração com o ChatGPT**: Use a API do ChatGPT para gerar texto para suas notas.
 - **Buscar e Filtrar**: Pesquisar e filtrar suas notas por título ou conteúdo.
 - **Armazenamento Local**: As notas são armazenadas localmente utilizando o SwiftData.
+
+![SmartNotes GIF](https://i.imgur.com/a/rAqMayE.gif)
